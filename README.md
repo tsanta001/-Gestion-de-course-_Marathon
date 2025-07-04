@@ -40,4 +40,3 @@ php artisan serve
 
 ### 📝 Formulaire d'inscription
 ![Importation](https://raw.githubusercontent.com/tsanta001/-Gestion-de-course-_Marathon/main/screenshots/Importation.jpg?<?=time()?>)
-<img src="screenshots/Ajout.jpg" alt="Ajout.jpg" width="600"/>
