@@ -29,3 +29,14 @@ php artisan key:generate
 # Configurer votre .env pour PostgreSQL
 php artisan migrate
 php artisan serve
+
+## 📸 Captures d’écran
+
+### 🏠 Page d’accueil
+![Ajout](screenshots/a.jpg)
+
+### 🏁 Classement final
+![Classement](screenshots/a2.jpg)
+
+### 📝 Formulaire d'inscription
+![Importation](screenshots/a3.jpg)
