@@ -32,11 +32,13 @@ php artisan serve
 
 ## 📸 Captures d’écran
 
+## 📸 Captures d’écran
+
 ### 🏠 Page d'accueil
-![Ajout](screenshots/Ajout.jpg)
+![Ajout](screenshots/Ajout.jpg?v=1)
 
 ### 🏁 Classement final
-![Classement](screenshots/Classement.jpg)
+![Classement](screenshots/Classement.jpg?v=1)
 
 ### 📝 Formulaire d'inscription
-![Importation](screenshots/Importation.jpg)
+![Importation](screenshots/Importation.jpg?v=1)
