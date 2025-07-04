@@ -21,7 +21,7 @@ Ce projet est une application web de gestion de course marathon, développée av
 ## ⚙️ Installation locale
 
 ```bash
-git clone https://github.com/tonpseudo/gestion-course-marathon.git
+git clone https://github.com/tsanta001/-Gestion-de-course-_Marathon.git
 cd gestion-course-marathon
 composer install
 cp .env.example .env
