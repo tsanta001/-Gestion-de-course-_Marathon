@@ -33,10 +33,10 @@ php artisan serve
 ## 📸 Captures d’écran
 
 ### 🏠 Page d’accueil
-![Ajout](screenshots/Ajout.jpg)
+![Ajout](https://raw.githubusercontent.com/tsanta001/-Gestion-de-course-_Marathon/main/screenshots/Ajout.jpg)
 
 ### 🏁 Classement final
-![Classement](screenshots/Classement.jpg)
+![Classement](https://raw.githubusercontent.com/tsanta001/-Gestion-de-course-_Marathon/main/screenshots/Classement.jpg)
 
 ### 📝 Formulaire d'inscription
-![Importation](screenshots/Importation.jpg)
+![Importation](https://raw.githubusercontent.com/tsanta001/-Gestion-de-course-_Marathon/main/screenshots/Importation.jpg)
