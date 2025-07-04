@@ -33,10 +33,10 @@ php artisan serve
 ## 📸 Captures d’écran
 
 ### 🏠 Page d’accueil
-![Ajout](screenshots/a.jpg)
+![Ajout](screenshots/Ajout.jpg)
 
 ### 🏁 Classement final
-![Classement](screenshots/a2.jpg)
+![Classement](screenshots/Classement.jpg)
 
 ### 📝 Formulaire d'inscription
-![Importation](screenshots/a3.jpg)
+![Importation](screenshots/Importation.jpg)
